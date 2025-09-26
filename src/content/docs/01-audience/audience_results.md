@@ -4,9 +4,7 @@ descripción: Guía completa de la identidad visual de Wally, proporcionando una
 ---
 
 :::note
-Accede al agente a traves de [Brancy](https://brancy-ui-test.vercel.app/auth). You can get started with this command:
-
-
+Accede al agente a traves de [Brancy](https://brancy-ui-test.vercel.app/auth).
 :::
 
 ## Migrantes en países en desarrollo
