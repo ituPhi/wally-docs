@@ -12,16 +12,19 @@ export default defineConfig({
         {
           label: "Publico objetivo",
           items: [{ label: "Audiencia", slug: "01-audience/audience_results" }],
+          collapsed: true,
         },
         {
           label: "Lo que hacemos",
           items: [
             { label: "Que hacemos", slug: "02-what-we-do/what_we_do_results" },
           ],
+          collapsed: true,
         },
         {
           label: "Valores",
           items: [{ label: "Valores", slug: "03-values/values_results" }],
+          collapsed: true,
         },
         {
           label: "Posicionamiento",
@@ -31,6 +34,7 @@ export default defineConfig({
               slug: "04-positioning/positioning_results",
             },
           ],
+          collapsed: true,
         },
         {
           label: "Esencia/Personalidad",
@@ -40,6 +44,7 @@ export default defineConfig({
               slug: "05-personality/personality_results",
             },
           ],
+          collapsed: true,
         },
         {
           label: "Concepto creativo",
@@ -49,22 +54,26 @@ export default defineConfig({
               slug: "06-creative-concept/creative-concept_results",
             },
           ],
+          collapsed: true,
         },
         {
           label: "Logo",
           items: [{ label: "Logotipo", slug: "07-logo/logo_results" }],
+          collapsed: true,
         },
         {
           label: "Tipografía",
           items: [
             { label: "Tipografía", slug: "08-typography/typography_results" },
           ],
+          collapsed: true,
         },
         {
           label: "Colores",
           items: [
             { label: "Paleta de Color", slug: "09-colors/colors_results" },
           ],
+          collapsed: true,
         },
         {
           label: "Sistema Visual",
@@ -78,6 +87,7 @@ export default defineConfig({
               slug: "10-visual-system/visual-application_results",
             },
           ],
+          collapsed: true,
         },
         {
           label: "Recursos Gráficos",
@@ -87,12 +97,14 @@ export default defineConfig({
               slug: "11-graphic-resources/graphic-resources_results",
             },
           ],
+          collapsed: true,
         },
         {
           label: "Fotografía",
           items: [
             { label: "Fotografía", slug: "12-photography/photography_results" },
           ],
+          collapsed: true,
         },
         {
           label: "Aplicaciones Digitales",
@@ -102,6 +114,7 @@ export default defineConfig({
               slug: "13-digital-applications/digital-applications_results",
             },
           ],
+          collapsed: true,
         },
         // {
         //   label: "Reference",
