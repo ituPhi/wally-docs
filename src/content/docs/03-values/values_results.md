@@ -1,10 +1,7 @@
 ---
-title: Wally Brand Guideline
+title: Valores
 descripción: Guía completa de la identidad visual de Wally, proporcionando una descripción general y completa de la marca. Incluye una carpeta de Google Drive con archivos editables y un sistema de marca en Figma para facilitar el acceso y uso.
 ---
-
-
-# Valores
 
 ## Seguridad en cada paso
 Cuidamos cada paso de tu dinero como si fuera nuestro. Nos tomamos en serio tu confianza y ofrecemos una experiencia segura y protegida, sin sorpresas.
