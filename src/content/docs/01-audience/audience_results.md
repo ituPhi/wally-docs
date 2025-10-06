@@ -5,7 +5,7 @@ descripción: Guía completa de la identidad visual de Wally, proporcionando una
 
 
 
-## Migrantes en países en desarrollo
+## Migrantes en países en 
 
 Personas que dejaron su país y están construyendo una nueva vida. Algunos ya trabajan y envían dinero a su familia; otros apenas están comenzando. Necesitan una forma simple, segura y sin trabas para enviar remesas, manejar su dinero y recuperar el control financiero.
 
