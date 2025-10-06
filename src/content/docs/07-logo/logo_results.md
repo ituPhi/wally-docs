@@ -3,8 +3,6 @@ title: Logo
 descripción: Guía completa de la identidad visual de Wally, proporcionando una descripción general y completa de la marca. Incluye una carpeta de Google Drive con archivos editables y un sistema de marca en Figma para facilitar el acceso y uso.
 ---
 
-# Logotipo
-
 ## Construcción
 
 Esta versión del logotipo de Wally integra el símbolo y el nombre en una disposición horizontal que garantiza claridad, equilibrio y versatilidad en distintos formatos y aplicaciones.
