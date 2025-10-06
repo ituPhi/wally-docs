@@ -3,9 +3,7 @@ title: Público objetivo
 descripción: Guía completa de la identidad visual de Wally, proporcionando una descripción general y completa de la marca. Incluye una carpeta de Google Drive con archivos editables y un sistema de marca en Figma para facilitar el acceso y uso.
 ---
 
-:::note
-Accede al agente a traves de [Brancy](https://brancy-ui-test.vercel.app/auth).
-:::
+
 
 ## Migrantes en países en desarrollo
 
