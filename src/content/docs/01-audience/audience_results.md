@@ -2,7 +2,6 @@
 title: Público 
 descripción: Guía completa de la identidad visual de Wally, proporcionando una descripción general y completa de la marca. Incluye una carpeta de Google Drive con archivos editables y un sistema de marca en Figma para facilitar el acceso y uso.
 ---
-
 ## Migrantes
 
 Personas que dejaron su país y están construyendo una nueva vida. Algunos ya trabajan y envían dinero a su familia; otros apenas están comenzando. Necesitan una forma simple, segura y sin trabas para enviar remesas, manejar su dinero y recuperar el control financiero.
